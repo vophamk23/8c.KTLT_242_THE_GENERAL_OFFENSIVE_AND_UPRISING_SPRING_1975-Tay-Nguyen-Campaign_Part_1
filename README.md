@@ -2,7 +2,7 @@
 # File Tree: 8c.KTLT_242_THE_GENERAL_OFFENSIVE_AND_UPRISING_SPRING_1975-Tay-Nguyen-Campaign_Part_1-main
 
 Generated on: 8/12/2025, 4:04:38 PM
-Root path: `c:\Users\ASUS\Downloads\8c.KTLT_242_THE_GENERAL_OFFENSIVE_AND_UPRISING_SPRING_1975-Tay-Nguyen-Campaign_Part_1-main\8c.KTLT_242_THE_GENERAL_OFFENSIVE_AND_UPRISING_SPRING_1975-Tay-Nguyen-Campaign_Part_1-main`
+Root path: `https://github.com/vophamk23/8c.KTLT_242_THE_GENERAL_OFFENSIVE_AND_UPRISING_SPRING_1975-Tay-Nguyen-Campaign_Part_1`
 
 ```
 ├── 📕 242_CO1027_Assignment_1_En-version1_2_1.pdf
